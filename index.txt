@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Manoj kumar
+Manoj kumar
 Web developer
 
 Show Contacts
@@ -12,13 +12,13 @@ Email
 richard@example.com
 
 Phone
-+1 (213) 352-2795
++91 6304275755
 
 Birthday
-June 23, 1982
+jan 21,2003
 
 Location
-Sacramento, California, USA
+punganur,AP,INDIA
 
 # navbar
 
@@ -93,15 +93,15 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
+siddharth institute of engineering and technology
+2022 — 2026
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-New york academy of art
-2006 — 2007
+MOTHER TERESA INSTITUION
+2021 — 2022
 Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
 
-High school of art and design
+K.R sri chaitanya childrens academy
 2002 — 2004
 Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
@@ -122,7 +122,7 @@ Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corru
 My skills
 
 Web design
-80%
+100%
 Graphic design
 70%
 Branding
